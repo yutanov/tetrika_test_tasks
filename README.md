@@ -6,9 +6,9 @@
 
 https://docs.google.com/document/d/1Y_JYZmbKUmJEkGp9bdJz6SjtaFXuJNrRrxHN1dXnPzY/edit
 
-В задаче 2 применяются библиотеки beautiful soup, requests, lxml
+В задаче под номером 2 используются библиотеки beautiful soup, requests, lxml
 
-Для уствновки данных библиотек выполнить команду:
+Для установки данных библиотек выполнить команду:
 
 ```
 pip install -r requirements.txt
